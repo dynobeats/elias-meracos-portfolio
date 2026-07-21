@@ -1,0 +1,14 @@
+# Lokala och privata filer
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Behåll privat CV utanför det publika repositoryt
+assets/elias-meracos-cv.pdf
+
+# Arbets- och byggmappar
+tmp/
+output/
+node_modules/
+
